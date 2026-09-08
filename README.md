@@ -1,31 +1,33 @@
-# Simple Calculator 🧮
+# To-Do List 📝
 
-A simple calculator project built with Python for beginners.
+A simple To-Do List project built with Python for beginners.
 
 ## Features
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Prevents division by zero
-- Repeats calculations until the user exits
+- Add tasks
+- Show tasks
+- Delete tasks
+- Mark tasks as completed
+- Exit the program
 
 ## How to run
 
 Make sure Python is installed, then run:
 
 ```bash
-python calculator.py
+python main.py
 ```
 
 ## What I learned
 
 This project practices:
 
+- Lists
+- Dictionaries
 - Variables
 - Input and output
 - `if / elif / else`
 - `while` loops
+- `for` loops
 - `try / except`
-- Basic arithmetic operations
+- Basic Python data handling
